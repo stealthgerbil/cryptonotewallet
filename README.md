@@ -31,4 +31,4 @@ Replace URL with git remote repository of your coin.
 ```
 mkdir build && cd build && cmake .. && make
 ```
-cmake -DCMAKE_PREFIX_PATH:STRING=E:\qt\5.11.1\winrt_x64_msvc2017 -G "Visual Studio 15 Win64"..
+cmake -DCMAKE_PREFIX_PATH:STRING=E:\qt\5.11.1\msvc2017_64 -G "Visual Studio 15 Win64"..
